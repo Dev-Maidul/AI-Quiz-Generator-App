@@ -1,5 +1,3 @@
-
-````markdown
 # 🧠 AI Quiz Generator App
 
 An intelligent **AI-powered learning assistant** that converts images and audio into **structured notes, transcripts, and interactive quizzes**.
@@ -38,13 +36,13 @@ An intelligent **AI-powered learning assistant** that converts images and audio 
 
 ## 🧠 How It Works
 
-1. Upload an image or audio file
-2. AI processes the input
+1. Upload an image or audio file  
+2. AI processes the input  
 3. Generates:
-   * 📄 Structured Notes
-   * 🎧 Transcript (for audio)
-   * ❓ Quiz questions
-4. Displays results instantly in the UI
+   * 📄 Structured Notes  
+   * 🎧 Transcript (for audio)  
+   * ❓ Quiz questions  
+4. Displays results instantly in the UI  
 
 ---
 
@@ -52,10 +50,10 @@ An intelligent **AI-powered learning assistant** that converts images and audio 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Dev-Maidul/AI-Quiz-Generator-App
+git clone https://github.com/Dev-Maidul/AI-Quiz-Generator-App.git
 
 # Navigate to project
-cd quiz-generator-app
+cd AI-Quiz-Generator-App
 
 # Create virtual environment
 python3 -m venv quizenv
@@ -63,7 +61,7 @@ source quizenv/bin/activate   # Mac/Linux
 
 # Install dependencies
 pip install -r requirements.txt
-````
+```
 
 ---
 
@@ -87,21 +85,21 @@ streamlit run app.py
 
 ## 🎯 Use Cases
 
-* 🎓 Students generating notes from images
-* 🧑‍🏫 Teachers creating quizzes quickly
-* 🎧 Converting lectures into transcripts
-* ⚡ Fast AI-powered learning assistant
-* 🤖 Smart study companion
+* 🎓 Students generating notes from images  
+* 🧑‍🏫 Teachers creating quizzes quickly  
+* 🎧 Converting lectures into transcripts  
+* ⚡ Fast AI-powered learning assistant  
+* 🤖 Smart study companion  
 
 ---
 
 ## 🚀 Future Improvements
 
-* 🔍 Better OCR accuracy for complex images
-* 🌐 Multi-language support
-* 📊 Quiz difficulty levels (easy/medium/hard)
-* 💾 Save/export notes and quizzes
-* 🔐 User authentication system
+* 🔍 Better OCR accuracy for complex images  
+* 🌐 Multi-language support  
+* 📊 Quiz difficulty levels (easy/medium/hard)  
+* 💾 Save/export notes and quizzes  
+* 🔐 User authentication system  
 
 ---
 
@@ -109,12 +107,12 @@ streamlit run app.py
 
 **Md Maidul Islam**
 
-* 💼 Full Stack Developer
-* 🧠 AI + Cybersecurity Enthusiast
-* 🌍 Remote Job Seeker (2026 Goal)
+* 💼 Full Stack Developer  
+* 🧠 AI + Cybersecurity Enthusiast  
+* 🌍 Remote Job Seeker (2026 Goal)  
 
-🔗 GitHub: [https://github.com/Dev-Maidul](https://github.com/Dev-Maidul)
-🔗 Portfolio: [https://maiduldevs.netlify.app/](https://maiduldevs.netlify.app/)
+🔗 GitHub: https://github.com/Dev-Maidul  
+🔗 Portfolio: https://maiduldevs.netlify.app/  
 
 ---
 
@@ -122,10 +120,10 @@ streamlit run app.py
 
 This project demonstrates:
 
-* ✅ Real-world AI integration
-* ✅ Practical EdTech solution
-* ✅ Clean UI/UX thinking
-* ✅ Problem-solving with AI
+* ✅ Real-world AI integration  
+* ✅ Practical EdTech solution  
+* ✅ Clean UI/UX thinking  
+* ✅ Problem-solving with AI  
 
 👉 Built not just as a project, but as a **smart learning assistant**
 
@@ -133,8 +131,5 @@ This project demonstrates:
 
 ## 📢 Feedback
 
-If you find this project useful, consider giving it a ⭐
+If you find this project useful, consider giving it a ⭐  
 Contributions and suggestions are always welcome!
-
-```
-
